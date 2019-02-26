@@ -1,5 +1,15 @@
 ## Welcome to Maxim Kasianiuk's Page
 
+### Chapter 4 The Pragmatic Programmer
+As I read through chapter 4 of The Pragmatic Programmer a few things that I observed when reading this chapter were the diffrent forms of contracts and how they are used. One of the key important points that I had observed was that even dead programs are useful expecially when looking back at the errors and finding out what kind of mistakes were made as this is a very important learning tool. A point that I had found shocking interesting made in the passage was crash, dont trash as it stated that you should have your program crash and fixing the solution with the tools that are given to you and fix it. As this made me question the method when reading through this point that was made it cleared things up a little, but still had me a little confused and questioning this process. 
+
+Overall this chapter had summed up most of the basic functions that I was taught in Java for example when to use exceptions in your program or how to structure your written program correctly. This chapter in the book gave me an insight on a few things as it gave me some kind of knowledge on working with diffrent languages and their diffrent kinds of operations when working with certain functions. As one of the key points that I'm going to try and implement in my future projects/assignments is to balance my resources as it was the last point made in this chapter I found this to be incredibly important to everyday programming so that it's structured well enough.
+
+In the end this chapter had left me with a few questions that I'm currently trying to resolve as it's given me a diffrent insight on how diffrent functions operate in languages. Some key points have been taken from this chapter and I will try to apply it to everyday programming when working with the functions that I had read. Hopefully I'll be able to someday use these tools without any hesitation.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Chapter 2 The Pragmatic Programmer
 Reading through chapter 2 one of the very first things that caught my eye was how most programmers are constantly in maintence mode. As this can be somewhat related and from what I've seen from programmers out in the real world they're always trying to develop the software into something better while at the same time working on bugs and small fixes in their programs. Reducing risks while working on a software can also help out a programmer as this won't completely destroy what he was working on. Teamwork also plays a large role for when it comes to programming as most people tend to think they can fix most problem on their own while in reality that's not the case. 
 
